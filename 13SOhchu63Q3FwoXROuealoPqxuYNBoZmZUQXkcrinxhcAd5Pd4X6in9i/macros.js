@@ -1,4 +1,5 @@
 //f 20/05 7y50
+//f 20/05 8y13
 /** @OnlyCurrentDoc */
 
 function AdaptacionbdBalanceapp() {
