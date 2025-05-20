@@ -1,3 +1,4 @@
+//f 20/05 7y50
 /** @OnlyCurrentDoc */
 
 function AdaptacionbdBalanceapp() {
