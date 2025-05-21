@@ -3,7 +3,7 @@
 //f 20/05 8y40
 //f 20/05 8y52
 //f 21/05 5:35
-
+//f 21/05 5:52
 /** @OnlyCurrentDoc */
 
 function AdaptacionbdBalanceapp() {
