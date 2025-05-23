@@ -1,8 +1,4 @@
-//foco cambios
-//foco cambio 2
-//foco cambio 3
-//version 2 de codigo
-// Nombre de la hoja 
+//foco 23/05 9y30
 function getSheet() {
   return SpreadsheetApp.getActiveSpreadsheet().getSheetByName("movimiento");
 }
