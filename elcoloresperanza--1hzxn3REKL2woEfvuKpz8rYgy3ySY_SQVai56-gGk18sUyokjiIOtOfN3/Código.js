@@ -1,4 +1,4 @@
-//foco 1 domingo 18/05
+//23/05 7y18
 /** @OnlyCurrentDoc */
 function coloresperanza() {
   var spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
