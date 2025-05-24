@@ -1,4 +1,4 @@
-//foco 23/05 12y05
+//24/05 5 y27
 function getSheet() {
   return SpreadsheetApp.getActiveSpreadsheet().getSheetByName("movimiento");
 }
