@@ -1,4 +1,4 @@
-//24/05 6y57
+//24/05 7y02 pm
 function getSheet() {
   return SpreadsheetApp.getActiveSpreadsheet().getSheetByName("movimiento");
 }
