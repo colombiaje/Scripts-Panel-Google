@@ -1,4 +1,4 @@
-//25/05 11:10 am
+//26/05 18y33
 function getSheet() {
   return SpreadsheetApp.getActiveSpreadsheet().getSheetByName("movimiento");
 }
